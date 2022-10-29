@@ -5,4 +5,3 @@
 - :office: Employed @ [cirosec](https://www.cirosec.de/unternehmen/wir-ueber-uns)
 - :man_technologist: Hacking @ [DU4L](https://ctftime.org/team/170921)
 - :mailbox: kontakt@frederikreiter.de (:lock: [S/MIME Certificate](kontakt@frederikreiter.de.cer))
-- :elephant: <a rel="me" href="https://social.frereit.de/@fre">@fre@social.frereit.de</a>
